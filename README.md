@@ -15,13 +15,13 @@ ChaoticCanvases brings together technology and creativity, blending code with ar
 ## Usage
 Feel free to explore and contribute to our projects!
 
+## Files
+
 ## License
 This project is licensed under [your chosen license].
-
 ## Installation
 ```bash
 pip install -r requirements.txt
-
 
 ---
 
