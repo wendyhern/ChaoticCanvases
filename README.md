@@ -21,13 +21,5 @@ Feel free to explore and contribute to our projects!
 This project is licensed under [your chosen license].
 ## Installation
 ```bash
+
 pip install -r requirements.txt
-
----
-
-
-Stay curious ✨
-
-
-
-
